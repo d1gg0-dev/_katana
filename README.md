@@ -1,5 +1,9 @@
 # KATANA
 
+*--remastered version in progress--*
+
+**v1.0 - 07/2024**
+
 I present KATANA, the first game created by its developer, entirely crafted in C, as part of an academic project by Rodrigo Martins, a student at the Federal Rural University of Rio de Janeiro (UFRRJ) in the Computer Science program. This interactive fiction game offers a unique immersion into the world of text-based RPGs, where you take on the role of Takeshi, a skilled samurai seeking revenge. The story begins when Takeshi discovers a magical katana, whose blade not only alters his fate but also awakens deep and dark emotions.
 
 Developed with meticulous attention to detail, KATANA provides players with an engaging gameplay experience where every decision can change the course of the narrative. Rodrigo Martins' work reflects not only the dedication and talent of a young programmer but also a passion for creating rich and captivating universes.
